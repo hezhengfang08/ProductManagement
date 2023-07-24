@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CYwOgK7E87P/lSKyXCQ0gI6LJdSYZ/P0eHOQjtddca74XnD9Szf8dItJ3/96mCNJ8ciiugTXyV5cwTaIm7o8dA==",
+  "dgSpecHash": "itsdENwTEZpZcLUhuPEXsYejXjRAsKHpVnhWRHzXmlDUVkF5CvwxdJZfjF1i5iPlqb5UULg9q6mtHY7VynxmUg==",
   "success": true,
-  "projectFilePath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+  "projectFilePath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\asynckeyedlock\\6.2.1\\asynckeyedlock.6.2.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\jetbrains.annotations\\2022.1.0\\jetbrains.annotations.2022.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KyuO67PjR9MJdxBwvIMxaSzEWEDJwZSRYA7EKW6wqPMQN6I/JATPyocQ8tXzqqjhSBbW+r4JtZ2mJFE0GU3Hnw==",
+  "dgSpecHash": "GZze//8H5cyHOIMahAWDzfc8RLBTYCgNciHf3JOakyKiL3bkYi9nxTivOBa+RImdhmEAvr/xsn4exp0j4/24Xg==",
   "success": true,
-  "projectFilePath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+  "projectFilePath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\jetbrains.annotations\\2022.1.0\\jetbrains.annotations.2022.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",

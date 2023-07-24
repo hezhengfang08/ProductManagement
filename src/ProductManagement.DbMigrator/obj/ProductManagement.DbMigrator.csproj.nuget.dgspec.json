@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj": {}
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj": {}
   },
   "projects": {
-    "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "projectName": "ProductManagement.Application.Contracts",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,24 +36,24 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -218,20 +218,20 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
         "projectName": "ProductManagement.DbMigrator",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -247,11 +247,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               },
-              "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -311,21 +311,21 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "projectName": "ProductManagement.Domain.Shared",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -537,20 +537,20 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "projectName": "ProductManagement.Domain",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Domain\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -566,8 +566,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -643,20 +643,20 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
         "projectName": "ProductManagement.EntityFrameworkCore",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -672,8 +672,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
               }
             }
           }

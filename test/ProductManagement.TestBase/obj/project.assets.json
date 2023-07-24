@@ -12113,17 +12113,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\test\\ProductManagement.TestBase\\ProductManagement.TestBase.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\test\\ProductManagement.TestBase\\ProductManagement.TestBase.csproj",
       "projectName": "ProductManagement.TestBase",
-      "projectPath": "F:\\ProductManagement\\test\\ProductManagement.TestBase\\ProductManagement.TestBase.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.TestBase\\ProductManagement.TestBase.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\test\\ProductManagement.TestBase\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.TestBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -12139,8 +12139,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
             }
           }
         }

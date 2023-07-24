@@ -14991,17 +14991,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
       "projectName": "ProductManagement.Application.Tests",
-      "projectPath": "F:\\ProductManagement\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\test\\ProductManagement.Application.Tests\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -15017,11 +15017,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
             },
-            "F:\\ProductManagement\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj": {
-              "projectPath": "F:\\ProductManagement\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj"
+            "E:\\Project\\ProductManagement\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj"
             }
           }
         }

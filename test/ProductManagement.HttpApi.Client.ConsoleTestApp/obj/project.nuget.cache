@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S77pm0CJiO+wkpJQydUE2guKo45hZpZHYUA/1hFVIWe5PZb8zzr5ZdAJWM0P/1vmTclNWGRN8B9ko7HKWYPeOg==",
+  "dgSpecHash": "2J2FxuSI+sDUseOKjOc34fm6MnziGHnHMuShxOZCSY6sAFFrghScXVNV3usUIaFWnu2JC9EIh/4B5+86lRgUBA==",
   "success": true,
-  "projectFilePath": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
+  "projectFilePath": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\asynckeyedlock\\6.2.1\\asynckeyedlock.6.2.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",

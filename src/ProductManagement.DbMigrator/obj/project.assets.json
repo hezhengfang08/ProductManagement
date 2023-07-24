@@ -10149,17 +10149,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
       "projectName": "ProductManagement.DbMigrator",
-      "projectPath": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\ProductManagement.DbMigrator.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\src\\ProductManagement.DbMigrator\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.DbMigrator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -10175,11 +10175,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
             },
-            "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
             }
           }
         }

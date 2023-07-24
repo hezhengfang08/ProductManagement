@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0eLrsjKBynk+gbZ6+awUmp893qXSEXUpLv1F2ZifF/3Gwu7eA3/pXqZCk0RQOth0dJPtrwffcK+ls2F0sSVuQ==",
+  "dgSpecHash": "W738NV8cHru367N2mW7S5tG2a5Na5IdF8A1PqIXLI4xN4Eo0+0TqAvE48Jk7mXfVjnPYAIGgWH2RSYd5DJK+Lg==",
   "success": true,
-  "projectFilePath": "F:\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+  "projectFilePath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\asynckeyedlock\\6.2.1\\asynckeyedlock.6.2.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",

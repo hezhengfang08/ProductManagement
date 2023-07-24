@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj": {}
+    "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj": {}
   },
   "projects": {
-    "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "projectName": "ProductManagement.Application.Contracts",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,24 +36,24 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -218,21 +218,21 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "projectName": "ProductManagement.Domain.Shared",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Domain.Shared\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -444,21 +444,21 @@
         }
       }
     },
-    "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
+    "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj",
         "projectName": "ProductManagement.HttpApi.Client",
-        "projectPath": "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -476,24 +476,24 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -646,20 +646,20 @@
         }
       }
     },
-    "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj": {
+    "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
+        "projectUniqueName": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
         "projectName": "ProductManagement.HttpApi.Client.ConsoleTestApp",
-        "projectPath": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
+        "projectPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\obj\\",
+        "outputPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "F:\\ProductManagement\\NuGet.Config",
+          "E:\\Project\\ProductManagement\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -675,8 +675,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
-                "projectPath": "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj"
+              "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
+                "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj"
               }
             }
           }

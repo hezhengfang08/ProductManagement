@@ -13188,17 +13188,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.Web\\ProductManagement.Web.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.Web\\ProductManagement.Web.csproj",
       "projectName": "ProductManagement.Web",
-      "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Web\\ProductManagement.Web.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Web\\ProductManagement.Web.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\src\\ProductManagement.Web\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -13214,14 +13214,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
             },
-            "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
             },
-            "F:\\ProductManagement\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
             }
           }
         }

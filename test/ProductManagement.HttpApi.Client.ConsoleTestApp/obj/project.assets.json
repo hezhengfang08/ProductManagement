@@ -7396,17 +7396,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
       "projectName": "ProductManagement.HttpApi.Client.ConsoleTestApp",
-      "projectPath": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\ProductManagement.HttpApi.Client.ConsoleTestApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\test\\ProductManagement.HttpApi.Client.ConsoleTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7422,8 +7422,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.HttpApi.Client\\ProductManagement.HttpApi.Client.csproj"
             }
           }
         }

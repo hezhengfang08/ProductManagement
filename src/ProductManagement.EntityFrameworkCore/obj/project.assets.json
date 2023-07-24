@@ -9191,17 +9191,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+      "projectUniqueName": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
       "projectName": "ProductManagement.EntityFrameworkCore",
-      "projectPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+      "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
+      "outputPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Alex.Yin\\Tool\\VS\\vs2019Sdk\\NuGetPackages"
       ],
       "configFilePaths": [
-        "F:\\ProductManagement\\NuGet.Config",
+        "E:\\Project\\ProductManagement\\NuGet.Config",
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -9217,8 +9217,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
-              "projectPath": "F:\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+            "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+              "projectPath": "E:\\Project\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
             }
           }
         }
